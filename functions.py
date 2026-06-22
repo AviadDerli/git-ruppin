@@ -1,4 +1,4 @@
 def calc(z,p):
     return z * p
 
-print(calc(50, 32))
+print(calc(234234, 34543))
