@@ -1,4 +1,4 @@
-function calc(x, y) {
-    return x + y
+function multiple(x, y) {
+    return x * y
 }
-console.log(calc(9999, 8888))
+console.log(multiple(9999, 8888))
