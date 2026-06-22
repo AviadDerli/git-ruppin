@@ -1,4 +1,9 @@
-function calc(x, y) {
-    return x + y
+function minus(x, y) {
+    return x - y
 }
-console.log(calc(9999, 8888))
+console.log(minus(32, 1))
+
+function devide(x, y) {
+    return x / y
+}
+console.log(devide(10, 2))
